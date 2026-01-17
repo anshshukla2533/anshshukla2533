@@ -72,7 +72,7 @@ Currently exploring the dark arts of computers — juggling **frontend**, **back
   <a href="mailto:anshshuklavg@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/AnshShukla7379/">
+  <a href="https://leetcode.com/u/AnshShukla737/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/ansh_2533">
